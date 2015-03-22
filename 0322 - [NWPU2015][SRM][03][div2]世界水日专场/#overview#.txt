@@ -1,0 +1,12 @@
+[NWPU2015][SRM][03][div2]世界水日专场
+========================================
+portal
+http://acm.hust.edu.cn/vjudge/contest/view.action?cid=72438#overview
+========================================
+problem list
+Problem A	POJ 1011	A
+Problem B	CodeForces 522A	B
+Problem C	POJ 2576	C
+Problem D	HDU 2046	D
+Problem E	CodeForces 523C	E
+Problem F	ZOJ 1076	F
